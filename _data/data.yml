@@ -27,14 +27,26 @@ sidebar:
   # Actualiza según los idiomas y niveles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
+    - item: Autodidact
+      link: # dejar en blanco
+
+    - item: Creative
+      link: # dejar en blanco
+
     - item: Communication
+      link: # dejar en blanco
+
+    - item: Leadership
+      link: # dejar en blanco
+
+    - item: Flexible
       link: # dejar en blanco
 
     - item: Team Work
@@ -42,24 +54,14 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
-      
-    - item: Patient
-      link: # dejar en blanco
-      
-    - item: Problem Solving
-      link: # dejar en blanco
-      
-    - item: Creativity
-      link: # dejar en blanco
-      
-    - item: Adaptability
-      link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I'm an engineering of Internet Technology's student, I'm an autodidact person, amateur developer!, I like play videogame, I like to programm and learn new things from the world of tecnology!
+    I'm an engineering of Internet Technology's student, I'm an autodidact and dedicated person,
+    I like to solve problems, the music and watch some movies,
+    I like play videogame, I like to programm and learn new things from the world of tecnology!
     
     
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
@@ -68,6 +70,7 @@ educationcomplete:
     university: University of Colima
     time: 2019 - current 
     details: |
+      Faculty of Telematics
 
   - degree: Analist Programmer
     university: University of Colima
@@ -77,12 +80,20 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Junior developer
-    time: 2021 - Present
+  - role: React Native developer
+    time: 2021 - 2022
     company: BrightCoders
     details: |
       In this company I'm studing React Native, It is a bootcamp about React Native,
-      We have teammates to solve some problems/little projects. 
+      We have teammates to solve some problems/little projects.
+   
+  - role: Intern
+    time: 2022 Feb - 2022 Jul
+    company: University of Colima
+    details: |
+      Design and analysis of solution for software Maintenance
+      Interface Development with React, HTML, JSON, CSS, SQL, PHP, Chakra
+      Developing a Web for Personal of the University of Colima
 
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
@@ -99,16 +110,16 @@ skills:
       level: 45%
 
     - name: Css
-      level: 40%
+      level: 60%
       
     - name: HTML
-      level: 40%
+      level: 60%
 
     - name: JavaScript
-      level: 60%
+      level: 50%
 
     - name: Git
-      level: 60%
+      level: 75%
 
     - name: C/C++
       level: 40%
