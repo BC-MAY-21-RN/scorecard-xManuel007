@@ -8,14 +8,14 @@ sidebar:
 
   # Profile information
   name: Manuel Eduardo Rios Martinez # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  tagline: React Native & Ruby on Rails # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
   email: maanuu.009@gmail.com
   phone: +52 3141249893
   website: # No agregar http://
-  linkedin: Manuel Eduardo Rios Martinez
+  linkedin: https://www.linkedin.com/in/manuelerm/
   github: xManuel007
   gitlab:
   bitbucket:
@@ -62,15 +62,14 @@ career-profile:
     I'm an engineering of Internet Technology's student, I'm an autodidact and dedicated person,
     I like to solve problems, the music and watch some movies,
     I like play videogame, I like to programm and learn new things from the world of tecnology!
-    
-    
+
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Internet Technology Enginneering 
+  - degree: Internet Technology Enginneering
     university: University of Colima
-    time: 2019 - current 
+    time: 2019 - current (intership semester)
     details: |
-      Faculty of Telematics
+      Facultad de Telematica
 
   - degree: Analist Programmer
     university: University of Colima
@@ -84,17 +83,32 @@ experiences:
     time: 2021 - 2022
     company: BrightCoders
     details: |
-      In this company I'm studing React Native, It is a bootcamp about React Native,
-      We have teammates to solve some problems/little projects.
+      React Native Developer, The bright Coders program has
+      helped me to develop my talent and profresional skills, by
+      increasion my eager to learn, Currently developing Mobile
+      application with React Native and React Js, with
+      collaborative challenges and projects that make place in a
+      remote work culture, using agile practices like SCRUM and
+      Kanban.
    
-  - role: Intern
-    time: 2022 Feb - 2022 Jul
+  - role: React JS developer
+    time: 2022 Mar - 2022 Aug
     company: University of Colima
     details: |
-      Design and analysis of solution for software Maintenance
-      Interface Development with React, HTML, JSON, CSS, SQL, PHP, Chakra
-      Developing a Web for Personal of the University of Colima
+      React JS Developer (A lot part of the time as Front-End), The Constitutional Social Service its a
+      requeriment in the University to get the title, In the program
+      I entered we work in a PWA about the web portal of the institution for the students.
 
+  - role: Ruby On Rails Developer
+    time: 2022 - current
+    company: BrightCoders
+    details: |
+      Ruby on Rails, The bright Coders program has
+      helped me to develop my talent and profresional skills, by
+      increasion my eager to learn, Currently developing Web App, with
+      collaborative challenges and projects that make place in a
+      remote work culture, using agile practices like SCRUM and
+      Kanban.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -106,20 +120,26 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 45%
+    - name: JavaScript
+      level: 80%
+
+    - name: HTML
+      level: 80%
 
     - name: Css
-      level: 60%
-      
-    - name: HTML
-      level: 60%
-
-    - name: JavaScript
-      level: 50%
+      level: 80%
 
     - name: Git
-      level: 75%
+      level: 80%
+
+    - name: Ruby
+      level: 20%
+
+    - name: Rails
+      level: 20%
+
+    - name: Python
+      level: 40%
 
     - name: C/C++
       level: 40%
