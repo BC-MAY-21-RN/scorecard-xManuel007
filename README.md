@@ -1,5 +1,8 @@
 ![BrightCoders Logo](assets/images/logo-bc.png)
 
+
+# Easy way to the scorecard link
+[Scorecard](https://bc-may-21-rn.github.io/scorecard-xManuel007/)
 # Curriculum Vitae
 
 El propósito de esta actividad es tener un perfil completo de nuestros BrightCoders.
